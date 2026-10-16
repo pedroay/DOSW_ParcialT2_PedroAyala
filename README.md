@@ -1,17 +1,17 @@
 ## DOSW_ParcialT2_PedroAyala
-# estudiantes
-pedro andres ayala bermudez
-samuel argalle piña
+# Estudiantes
+- Pedro Andres Ayala Bermudez
+- Samuel Argalle Piña
 
 ## Diseño
 
-# diagrama clase
+# Diagrama clase
 link: https://drive.google.com/file/d/13PvKZthXGaZk9KX-iBkWJw-rNxdN2FKb/view?usp=sharing
 
 ![Imagen del diagrama de clases ](/%20DOSW-ParcialT2/src/main/resources/docs/images/diagramaClases.png)
 
 
-# daigrama entidad relacion
+# Diagrama entidad relacion
 
 link: https://drive.google.com/file/d/1m3BhOv730D7xom7Y3Eyogteb9FPYJtP8/view?usp=sharing
 
