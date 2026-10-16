@@ -30,7 +30,5 @@ public record UsuarioEnlaceModel(
         materiasInscritas = materiasInscritas == null ? List.of() : List.copyOf(materiasInscritas);
     }
 
-     public UserModel() {
-    }
 
 }
