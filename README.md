@@ -1,4 +1,4 @@
-# DOSW_ParcialT2_PedroAyala
+## DOSW_ParcialT2_PedroAyala
 # estudiantes
 pedro andres ayala bermudez
 samuel argalle piña
